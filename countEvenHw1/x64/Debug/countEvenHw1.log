@@ -1,0 +1,4 @@
+﻿  countEvenHw1.c
+C:\Users\PC\source\repos\countEvenHw1\countEvenHw1\countEvenHw1.c(8,16): warning C4013: 'count_even' undefined; assuming extern returning int
+C:\Users\PC\source\repos\countEvenHw1\countEvenHw1\countEvenHw1.c(16,6): warning C4142: 'count_even': benign redefinition of type
+  countEvenHw1.vcxproj -> C:\Users\PC\source\repos\countEvenHw1\x64\Debug\countEvenHw1.exe
