@@ -1,5 +1,6 @@
 ﻿  countEvenHw1.c
-C:\Users\PC\source\repos\countEvenHw1\countEvenHw1\countEvenHw1.c(11,16): warning C4013: 'count_even' undefined; assuming extern returning int
-C:\Users\PC\source\repos\countEvenHw1\countEvenHw1\countEvenHw1.c(14,24): warning C4013: 'most_frequent' undefined; assuming extern returning int
-C:\Users\PC\source\repos\countEvenHw1\countEvenHw1\countEvenHw1.c(47,6): warning C4142: 'count_even': benign redefinition of type
+C:\Users\PC\source\repos\countEvenHw1\countEvenHw1\countEvenHw1.c(17,16): warning C4013: 'count_even' undefined; assuming extern returning int
+C:\Users\PC\source\repos\countEvenHw1\countEvenHw1\countEvenHw1.c(20,24): warning C4013: 'most_frequent' undefined; assuming extern returning int
+C:\Users\PC\source\repos\countEvenHw1\countEvenHw1\countEvenHw1.c(30,15): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\PC\source\repos\countEvenHw1\countEvenHw1\countEvenHw1.c(75,6): warning C4142: 'count_even': benign redefinition of type
   countEvenHw1.vcxproj -> C:\Users\PC\source\repos\countEvenHw1\x64\Debug\countEvenHw1.exe
